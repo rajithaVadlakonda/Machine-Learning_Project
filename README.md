@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA): Conducted EDA to understand the relationship be
 
 Linear Regression Model: Applied the linear regression algorithm and calculated the cost function (mean squared error) and defined the hypothesis function.
 
-Gradient Descent Optimization Applied the gradient descent algorithm to minimise the cost function. Selected appropriate learning rates and discussed their impact on convergence. Plot the cost function over iterations to visualise convergence. Evaluated the model's performance on the testing set by using parameters such as mean squared error (MSE) and R-squared.
+Gradient Descent Optimization Applied the gradient descent algorithm to minimise the cost function. Selected appropriate learning rates and discussed their impact on convergence. Plot the cost function over iterations to visualise convergence. Evaluated the model's performance on the testing set by using parameters such as mean squared error (MSE) and R-squared (0.96).
 
  
 
