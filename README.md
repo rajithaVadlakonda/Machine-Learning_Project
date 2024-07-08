@@ -1,6 +1,6 @@
 Project Description: Linear regression and gradient descent: A Predictive Approach for Housing Prices
 
-Objective: The main objective of this project is to create a prediction model that estimates property values based on several features like age, area, number of bedrooms, etc. by utilizing gradient descent and linear regression.
+Objective: The main objective of this project was to create a prediction model that estimates property values based on several features like age, area, number of bedrooms, etc. by utilizing gradient descent and linear regression.
 
 Methodology:
 
@@ -14,6 +14,6 @@ Gradient Descent Optimization Applied the gradient descent algorithm to minimise
 
  
 
-Results and Interpretation: Analysed the influence of the regression intercept and coefficients on housing prices.
+Results and Interpretation: Analysed the influence of the regression intercept and coefficients on housing prices, offering real estate agencies insightful information and precise pricing predictions using quantitative analysis.
 
 Tools and Technologies: Python and Libraries (NumPy, Pandas, Matplotlib, Scikit-Learn) and Jupyter Notebook
